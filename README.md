@@ -1,4 +1,5 @@
-### Welcome!, I am Vicente 👋
+### Hi! I am Vicente 👋&#x1F468;&#x200D;&#x1F4BB;
+
 
 <!--
 **VicenteBarbato/VicenteBarbato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
