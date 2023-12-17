@@ -1,7 +1,6 @@
 ### Hi! I am Vicente 👋&#x1F468;&#x200D;&#x1F4BB;
 
-![https://github.com/VicenteBarbato](https://raw.githubusercontent.com/VicenteBarbato/VicenteBarbatop/master/perf_github.png)
-
+[![perf-github.png](https://i.postimg.cc/66LJ1hDm/perf-github.png)](https://postimg.cc/4ndSYp46)
 
 
 <!--
