@@ -2,7 +2,7 @@
 
 [![Github-perf.png](https://i.postimg.cc/HkLtCpjy/Github-perf.png)](https://postimg.cc/crV3RGRx)
 
-Soy un estudiante de Ingeniería informática en la universidad Carlos III de Madrid. 
+Soy estudiante de Ingeniería Informática en la Universidad Carlos III de Madrid. Actualmente, me encuentro en búsqueda de adquirir nuevas habilidades y experiencias en el campo de la informática para ampliar al máximo mis conocimientos. Estoy abierto a ofertas y oportunidades que puedan enriquecer mi trayectoria. Si tienes alguna propuesta para mí, estaré encantado de ponerme en contacto.
 
 
 ## Tecnologías:
