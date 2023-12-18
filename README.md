@@ -1,4 +1,4 @@
-### Hi! I am Vicente 👋&#x1F468;&#x200D;&#x1F4BB;
+# Hola, soy Vicente Barbato 👋
 
 [![Github-perf.png](https://i.postimg.cc/HkLtCpjy/Github-perf.png)](https://postimg.cc/crV3RGRx)
 
