@@ -1,7 +1,8 @@
 ### Hi! I am Vicente 👋&#x1F468;&#x200D;&#x1F4BB;
 
-[![perf-github.png](https://i.postimg.cc/66LJ1hDm/perf-github.png)](https://postimg.cc/4ndSYp46)
+[![Github-perf.png](https://i.postimg.cc/HkLtCpjy/Github-perf.png)](https://postimg.cc/crV3RGRx)
 
+Soy un estudiante de Ingeniería informática
 
 <!--
 **VicenteBarbato/VicenteBarbato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
